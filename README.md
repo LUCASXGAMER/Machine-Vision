@@ -1,3 +1,4 @@
 # Machine-Vision
 
-- feature -A
+    - feature-A
+    - fix-B
